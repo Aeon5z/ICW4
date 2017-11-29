@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alabama</key>
+	<dict>
+		<key>StateName</key>
+		<string>Alabama</string>
+		<key>Year</key>
+		<string>Year established: 1819</string>
+		<key>Flag</key>
+		<string>Flags/Small/alabama-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Audemu jura nosta defendere</string>
+		<key>Capital</key>
+		<string>Capital: Montgomery
+</string>
+		<key>Population</key>
+		<string>Population: 4,863,300</string>
+	</dict>
+	<key>Alaska</key>
+	<dict>
+		<key>StateName</key>
+		<string>Alaska</string>
+		<key>Year</key>
+		<string>Year established: 1959</string>
+		<key>Flag</key>
+		<string>Flags/Small/alaska-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: North to the Future</string>
+		<key>Capital</key>
+		<string>Capital: Juneau</string>
+		<key>Population</key>
+		<string>Population: 741,894</string>
+	</dict>
+	<key>Georgia</key>
+	<dict>
+		<key>StateName</key>
+		<string>Georgia</string>
+		<key>Year</key>
+		<string>Year established: 1788</string>
+		<key>Flag</key>
+		<string>Flags/Small/georgia-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Wisdom, Justice, Moderation</string>
+		<key>Capital</key>
+		<string>Capital: Atlanta</string>
+		<key>Population</key>
+		<string>Population: 10,310,371</string>
+	</dict>
+	<key>Florida</key>
+	<dict>
+		<key>StateName</key>
+		<string>Florida</string>
+		<key>Year</key>
+		<string>Year established: 1845</string>
+		<key>Flag</key>
+		<string>Flags/Small/florida-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: In God We Trust</string>
+		<key>Capital</key>
+		<string>Capital: Tallahassee</string>
+		<key>Population</key>
+		<string>Population: 20,612,439 </string>
+	</dict>
+	<key>Colorado</key>
+	<dict>
+		<key>StateName</key>
+		<string>Colorado</string>
+		<key>Year</key>
+		<string>Year established: 1876</string>
+		<key>Flag</key>
+		<string>Flags/Small/colorado-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Nothing without providence</string>
+		<key>Capital</key>
+		<string>Capital: Denver</string>
+		<key>Population</key>
+		<string>Population: 5,540,545</string>
+	</dict>
+	<key>California</key>
+	<dict>
+		<key>StateName</key>
+		<string>California</string>
+		<key>Year</key>
+		<string>Year established: 1850</string>
+		<key>Flag</key>
+		<string>Flags/Small/california-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Eureka</string>
+		<key>Capital</key>
+		<string>Capital: Sacramento</string>
+		<key>Population</key>
+		<string>Population: 39,250,017</string>
+	</dict>
+	<key>Texas</key>
+	<dict>
+		<key>StateName</key>
+		<string>Texas</string>
+		<key>Year</key>
+		<string>Year established: 1845</string>
+		<key>Flag</key>
+		<string>Flags/Small/texas-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Friendship</string>
+		<key>Capital</key>
+		<string>Capital: Austin</string>
+		<key>Population</key>
+		<string>Population: 27,862,596</string>
+	</dict>
+	<key>Hawaii</key>
+	<dict>
+		<key>StateName</key>
+		<string>Hawaii</string>
+		<key>Year</key>
+		<string>Year established: 1959</string>
+		<key>Flag</key>
+		<string>Flags/Small/hawaii-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: The Life of the Land is Perpetuated in Righteousness</string>
+		<key>Capital</key>
+		<string>Capital: Honolulu</string>
+		<key>Population</key>
+		<string>Population: 1,428,557</string>
+	</dict>
+	<key>Illinois</key>
+	<dict>
+		<key>StateName</key>
+		<string>Illinois</string>
+		<key>Year</key>
+		<string>Year established: 1818</string>
+		<key>Flag</key>
+		<string>Flags/Small/illinois-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Land of Lincoln, Prairie State</string>
+		<key>Capital</key>
+		<string>Capital: Springfield</string>
+		<key>Population</key>
+		<string>Population: 12,801,539</string>
+	</dict>
+	<key>South Carolina</key>
+	<dict>
+		<key>StateName</key>
+		<string>South Carolina</string>
+		<key>Year</key>
+		<string>Year established: 1788</string>
+		<key>Flag</key>
+		<string>Flags/Small/south-carolina-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: While I Breathe I Hope</string>
+		<key>Capital</key>
+		<string>Capital: Columbia</string>
+		<key>Population</key>
+		<string>Population: 4,961,119</string>
+	</dict>
+	<key>Virginia</key>
+	<dict>
+		<key>StateName</key>
+		<string>Virginia</string>
+		<key>Year</key>
+		<string>Year established: 1788</string>
+		<key>Flag</key>
+		<string>Flags/Small/virginia-flag-small</string>
+		<key>Motto</key>
+		<string>Thus Always to Tyrants</string>
+		<key>Capital</key>
+		<string>Capital: Richmond</string>
+		<key>Population</key>
+		<string>Population: 8,411,808</string>
+	</dict>
+	<key>Washington</key>
+	<dict>
+		<key>StateName</key>
+		<string>Washington</string>
+		<key>Year</key>
+		<string>Year established: 1889</string>
+		<key>Flag</key>
+		<string>Flags/Small/washington-flag-small</string>
+		<key>Motto</key>
+		<string>Motto: Al-ki or Alki, &quot;bye and bye&quot;</string>
+		<key>Capital</key>
+		<string>Capital: Olympia</string>
+		<key>Population</key>
+		<string>Population: 7,288,000</string>
+	</dict>
+</dict>
+</plist>
